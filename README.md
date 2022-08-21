@@ -1,5 +1,4 @@
 # Тестовое задание ШИФТ ЦФТ
-## Сортировка слиянием, реализованная согласно [заданию](https://github.com/neko2a/cft-test-task/tree/master/docs/Java_TestTask.pdf).
 
 ### Требования к программе:
 * Java 15+
